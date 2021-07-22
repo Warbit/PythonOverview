@@ -1,2 +1,6 @@
+__pycache__/
+*.py[cod]
+log/
+docker-compose.yaml
 
 
